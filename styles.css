@@ -302,3 +302,14 @@ header {
 	padding-left: 15px;
 	color: #0071d4;
 }
+
+.second-section-vinyl {
+	width: 50%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.second-section-vinyl img {
+	width: 12rem;
+}
